@@ -1,0 +1,11 @@
+Методы списка (list):
+list.append(x), list.insert(i, x), list.count(x), list.copy(), list.clear()
+
+Строки:
+S.split(символ), S.upper(), S.lower(), S.join(список), S.rstrip([chars])
+
+Множества:
+set.add(elem), set.remove(elem), set.clear(), set.update(other, ...), set.intersection(other, ...)
+
+Словари:
+dict.clear(), dict.values(), dict.items(), dict.fromkeys(seq[, value]), dict.update([other])
